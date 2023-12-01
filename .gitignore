@@ -1,3 +1,8 @@
+# Ignore task inputs, this is recommended to reduce cheating from others
+*input*.txt
+*example*.txt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
